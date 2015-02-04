@@ -1,0 +1,2 @@
+# DiceRoller
+Randomly rolls dice
